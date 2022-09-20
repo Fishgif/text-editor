@@ -9,6 +9,7 @@ This application takes an existing text editor app and adds functionality for it
 - [Installation](#installation)
 - [Usage](#usage)
 - [Deployed Link](#deployed-link)
+- [Screen Shots ](#screen-shot)
 - [Built With](#built-with)
 - [Questions](#questions)
 
@@ -31,7 +32,11 @@ You can install the program onto your desktop for offline use.
 
 ## Deployed Link
 
-The link to the deployed application is: https://
+The link to the deployed application is: https://text-editor123456789.herokuapp.com/
+
+## Screen Shots
+
+<img src="./images/text.png" width="600px">
 
 
 **[⬆ back to top](#table-of-contents)**
